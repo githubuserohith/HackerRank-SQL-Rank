@@ -1,4 +1,4 @@
-# HackerRank-SQL-Rank 1
+# HackerRank-SQL-Rank
 * Achieved Rank 1 in HackerRank SQL
 * 1040 points
 * 5 star Gold
